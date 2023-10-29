@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.nom {
+  position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    bottom: 12%;
+}
+.imatge {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.titol1 {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 10%;
+}
+.enllaçindex1 {
+    position: absolute;
+    left: 5%;
+    transform: translate(-50%, -50%);
+    bottom: 12%;
+}
+.titolindex1 {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 10%;
+}
